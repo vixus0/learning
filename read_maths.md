@@ -11,7 +11,7 @@ http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-ma
 Part 1: Proofs
 ---
 
-- [ ] Ch 1: Propositions
+- [x] Ch 1: Propositions
 - [ ] Ch 2: Patterns of proof
 - [ ] Ch 3: Induction
 - [ ] Ch 4: Number theory
